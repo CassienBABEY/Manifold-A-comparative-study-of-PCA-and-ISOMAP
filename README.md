@@ -2,6 +2,8 @@
 
 This repository presents a detailed comparative analysis between two well-established dimensionality reduction techniques: Principal Component Analysis (PCA) and Isomap. This study encompasses both artificial and real datasets, providing unique insights into the performances and characteristics of each method.
 
+**Please note that this study was conducted as part of my academic curriculum. It may not be exhaustive, and there could be potential errors or areas for improvement.**
+
 ## Abstract
 
 This study assesses the performance of PCA and Isomap on artificial datasets and the well-known high-dimensional MNIST dataset. The methods were tested on artificial structures such as the Swiss Roll, Helix, and S-Curve. The comparison relies on four criteria: 2D visualization after reduction, the nearest neighbor method (1-NN), trustworthiness, and continuity. Our results highlight the effectiveness of each technique in various data configurations and provide a comparison based on reliable and robust indicators.
