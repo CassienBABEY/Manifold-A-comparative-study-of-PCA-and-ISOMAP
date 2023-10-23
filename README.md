@@ -101,3 +101,7 @@ For any inquiries or further discussion about this project:
 - **LinkedIn**: Connect with me or send me a message on [LinkedIn](https://www.linkedin.com/in/cassienbabey/).
 
 I appreciate feedback and collaboration, so please don't hesitate to reach out!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
